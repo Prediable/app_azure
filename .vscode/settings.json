@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0b686b73-f5ba-4e1b-8d8a-b09ab6f86a99/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/lstm-api",
+    "appService.deploySubpath": "."
+}
